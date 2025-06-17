@@ -1,4 +1,4 @@
-# 📈 Life Expectancy & ❤️ Heart Disease Prediction using Machine Learning (Regression and Classification)
+# 🩺 Health Analytics with Machine Learning (Regression + Classification using Scikit-learn & Scratch Models)
 
 This repository includes two machine learning projects aligned with **UN SDG Goal 3: Good Health and Well-being**.
 
